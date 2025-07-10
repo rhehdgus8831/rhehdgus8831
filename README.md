@@ -1,4 +1,4 @@
-## Hi there 👋
+## Donghyun Github
 
 <!--
 **rhehdgus8831/rhehdgus8831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![동현's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhehdgus8831&show_icons=true&theme=white)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhehdgus8831&layout=compact&theme=white)
+
 
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=rhehdgus8831&utm_content=farm">
