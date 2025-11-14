@@ -5,7 +5,7 @@
 <div align= "center">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👨‍💻 About Me </h2>
 <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
-"리테일에서 개발자로, 새로운 도전을 즐기는 백엔드 엔지니어"
+<b>"리테일에서 개발자로, 새로운 도전을 즐기는 백엔드 엔지니어"</b>
 </div>
 <br>
 <div style="text-align: left; width: 80%; margin: 0 auto;">
@@ -15,7 +15,6 @@
 - 사용자 경험을 최우선으로 생각하는 개발자가 되고 싶습니다
 </div>
 </div>
-
 <div align= "center">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>
 <div style="margin: 0 auto; text-align: center;" align= "center">
@@ -49,6 +48,10 @@
 
 <div align= "center">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Projects </h2> <br>
+  <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
+6개월간 진행한 프로젝트입니다.
+</div>
+  <br>
 <div align="center">
 <a href="https://github.com/SynergySign"><img src="https://img.shields.io/badge/SignBell_(AI_수어_학습)-SynergySign-blue?style=for-the-badge&logo=github"/></a><br><br>
 <a href="https://github.com/Vibe-Fiction"><img src="https://img.shields.io/badge/VibeFiction_(AI_릴레이_소설)-Vibe--Fiction-9cf?style=for-the-badge&logo=github"/></a><br><br>
@@ -65,7 +68,7 @@
 <br>
 <div align="center">
 <a href="https://github.com/rhehdgus8831/Project-retrospective/tree/main/signbell"><img src="https://img.shields.io/badge/SignBell_회고록-Project_Memoir-blue?style=for-the-badge&logo=readme"/></a><br><br>
-<a href=https://github.com/rhehdgus8831/Project-retrospective/blob/main/Ai_dea.md"><img src="https://img.shields.io/badge/VibeFiction_회고록-Project_Memoir-9cf?style=for-the-badge&logo=readme"/></a><br><br>
+<a href="https://github.com/rhehdgus8831/Project-retrospective/blob/main/Ai_dea.md"><img src="https://img.shields.io/badge/VibeFiction_회고록-Project_Memoir-9cf?style=for-the-badge&logo=readme"/></a><br><br>
 <a href="https://github.com/rhehdgus8831/Project-retrospective/tree/main/Nonagajyeo"><img src="https://img.shields.io/badge/반띵_회고록-Project_Memoir-yellow?style=for-the-badge&logo=readme"/></a><br><br>
 <a href="https://github.com/rhehdgus8831/Project-retrospective/blob/main/README.md"><img src="https://img.shields.io/badge/Study_With_Me_회고록-Project_Memoir-lightgrey?style=for-the-badge&logo=readme"/></a><br><br>
 </div>
@@ -73,6 +76,10 @@
 
 <div align= "center">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌱 Learning Record </h2> <br>
+  <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
+학습한 내용을 매일 기록합니다.
+</div>
+<br>
 <div align="center">
 <a href="https://github.com/rhehdgus8831/TIL"><img src="https://img.shields.io/badge/Today_I_Learned_(TIL)-Learned_Log-007396?style=for-the-badge&logo=github"/></a>
 </div>
